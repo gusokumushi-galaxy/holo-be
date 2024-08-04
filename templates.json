@@ -1,0 +1,86 @@
+[
+  {
+      "type": "customer",
+      "role": "VIP",
+      "template": {
+          "topSection": {
+              "customerInfo": {
+                  "components": ["Name", "Status", "ID", "LastInteraction"]
+              }
+          },
+          "mainContentArea": {
+              "layout": "two-column",
+              "sections": [
+                  { "component": "AccountOverview" },
+                  { "component": "HighValueTransactions" },
+                  { "component": "PersonalizedOffers" },
+                  { "component": "RelationshipDetails" },
+                  { "component": "QuickLinks" }
+              ]
+          }
+      }
+  },
+  {
+      "type": "bank",
+      "role": "bank manager",
+      "template": {
+          "topSection": {
+              "customerInfo": {
+                  "components": ["Name", "Status", "ID", "LastInteraction"]
+              }
+          },
+          "mainContentArea": {
+              "layout": "two-column",
+              "sections": [
+                  { "component": "AccountOverview" },
+                  { "component": "HighValueTransactions" },
+                  { "component": "PersonalizedOffers" },
+                  { "component": "RelationshipDetails" },
+                  { "component": "QuickLinks" }
+              ]
+          }
+      }
+  },
+  {
+      "type": "screen",
+      "role": "ipad",
+      "template": {
+          "topSection": {
+              "customerInfo": {
+                  "components": ["Name", "Status", "ID", "LastInteraction"]
+              }
+          },
+          "mainContentArea": {
+              "layout": "two-column",
+              "sections": [
+                  { "component": "AccountOverview" },
+                  { "component": "HighValueTransactions" },
+                  { "component": "PersonalizedOffers" },
+                  { "component": "RelationshipDetails" },
+                  { "component": "QuickLinks" }
+              ]
+          }
+      }
+  },
+  {
+      "type": "bank",
+      "role": "relationship manager",
+      "template": {
+          "topSection": {
+              "customerInfo": {
+                  "components": ["Name", "Status", "ID", "LastInteraction"]
+              }
+          },
+          "mainContentArea": {
+              "layout": "two-column",
+              "sections": [
+                  { "component": "AccountOverview" },
+                  { "component": "HighValueTransactions" },
+                  { "component": "PersonalizedOffers" },
+                  { "component": "RelationshipDetails" },
+                  { "component": "QuickLinks" }
+              ]
+          }
+      }
+  }
+]

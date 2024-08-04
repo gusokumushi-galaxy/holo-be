@@ -1,0 +1,27 @@
+component,bank_roles,screen_sizes,reason_for_use,cols
+AccountsOverview,"Bank Manager, Relationship Manager, Sales, Customer Support","iPad, Computer, Phone","Provides a summary of all customer accounts, helping bank users quickly understand the customer's financial status.",12
+HighValueTransactions,"Bank Manager, Relationship Manager, Sales","iPad, Computer, Phone","Displays significant transactions, aiding in assessing the customer's major financial activities and potential risks.",6
+PersonalizedOffers,"Sales, Relationship Manager","Computer, Phone, iPad","Shows tailored offers and promotions, enhancing customer engagement and satisfaction.",6
+RelationshipDetails,"Bank Manager, Relationship Manager, Customer Support","Computer, iPad","Displays details about the customer's relationship with the bank, including the relationship manager and recent interactions.",6
+QuickLinks,"Bank Manager, Relationship Manager, Sales, Customer Support","iPad, Computer","Provides easy access to frequently used features, improving navigation and efficiency for bank users.",4
+ESGImpactOverview,"Bank Manager, Relationship Manager","Computer, iPad","Shows the customer's ESG impact, helping users understand their environmental, social, and governance contributions.",8
+InvestmentESGAnalysis,"Bank Manager, Relationship Manager","Computer, iPad","Displays the ESG analysis of the customer's investments, aiding in sustainable investment advice.",8
+RecentTransactions,"Bank Manager, Relationship Manager, Customer Support, Sales","Computer, Phone, iPad","Provides a list of recent transactions, offering insights into the customer's recent financial activities.",12
+LoanDetails,"Bank Manager, Relationship Manager, Customer Support","Computer, Phone, iPad","Shows details of the customer's loans, including balances and repayment schedules, helping manage loan accounts.",8
+CreditCardSummary,"Bank Manager, Relationship Manager, Customer Support, Sales","Computer, Phone, iPad","Provides a summary of credit card usage, aiding in credit management and monitoring.",6
+SavingsGoals,"Relationship Manager, Sales, Customer Support","Computer, iPad","Displays the customer's savings goals and progress, helping in financial planning and goal setting.",6
+BudgetOverview,"Relationship Manager, Sales, Customer Support","Computer, iPad, Phone","Provides an overview of the customer's budget, helping manage spending and financial planning.",12
+CustomerInsights,"Bank Manager, Relationship Manager","Computer, iPad, Phone","Offers insights and recommendations based on the customer's financial behavior, aiding in personalized service.",12
+SpendingTrends,"Relationship Manager, Sales, Customer Support","Computer, iPad","Analyzes the customer's spending patterns, identifying trends and potential savings areas.",6
+FinancialGoals,"Relationship Manager, Sales, Customer Support","Computer, iPad, Phone","Displays the customer's financial goals and progress, aiding in long-term financial planning.",6
+RetirementPlanning,"Bank Manager, Relationship Manager, Sales","Computer, iPad, Phone","Provides insights and projections for retirement savings, helping in retirement planning.",8
+InsurancePolicies,"Relationship Manager, Sales, Customer Support","Computer, iPad","Summarizes the customer's insurance coverage, helping manage insurance policies and coverage.",6
+TaxSummary,"Bank Manager, Relationship Manager, Sales","Computer, iPad, Phone","Provides a summary of the customer's tax-related information, aiding in tax planning and management.",6
+MortgageDetails,"Bank Manager, Relationship Manager, Sales","Computer, iPad","Shows detailed information about the customer's mortgage, including payment history and remaining balance.",8
+InvestmentPortfolio,"Bank Manager, Relationship Manager","Computer, iPad","Summarizes the customer's investment portfolio, showing asset allocation and performance.",8
+CharitableDonations,"Bank Manager, Relationship Manager, Sales","Computer, iPad","Lists the customer's charitable donations, highlighting their impact and potential tax benefits.",6
+EmergencyFundStatus,"Relationship Manager, Sales, Customer Support","Computer, iPad","Displays the status of the customer's emergency fund, including balance and target amount.",4
+IncomeBreakdown,"Bank Manager, Relationship Manager","Computer, iPad","Provides a detailed breakdown of the customer's income sources, aiding in financial analysis.",6
+CreditScore,"Bank Manager, Relationship Manager, Customer Support","Computer, Phone, iPad","Displays the customer's current credit score, helping assess creditworthiness.",4
+DebtToIncomeRatio,"Bank Manager, Relationship Manager, Customer Support","Computer, Phone, iPad","Calculates the customer's debt-to-income ratio, showing the relationship between their debt and income.",4
+CreditScoreHistory,"Bank Manager, Relationship Manager, Customer Support","Computer, Phone, iPad","Tracks and displays changes in the customer's credit score over time, helping understand their credit trajectory.",6
